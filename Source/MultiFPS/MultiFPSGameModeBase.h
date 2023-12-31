@@ -13,5 +13,7 @@ UCLASS()
 class MULTIFPS_API AMultiFPSGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+
+	AMultiFPSGameModeBase();
 	
 };
